@@ -1,0 +1,144 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Microsoft.AspNetCore.Authentication.JwtBearer >= 7.0.13",
+      "Microsoft.AspNetCore.OpenApi >= 7.0.13",
+      "Microsoft.EntityFrameworkCore.Design >= 7.0.13",
+      "Microsoft.IdentityModel.Tokens >= 7.0.3",
+      "Swashbuckle.AspNetCore >= 6.5.0",
+      "System.IdentityModel.Tokens.Jwt >= 7.0.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Josue Bermudez\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Learn2SwitchApi\\Learn2SwitchApi.csproj",
+      "projectName": "Learn2SwitchApi",
+      "projectPath": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Learn2SwitchApi\\Learn2SwitchApi.csproj",
+      "packagesPath": "C:\\Users\\Josue Bermudez\\.nuget\\packages\\",
+      "outputPath": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Learn2SwitchApi\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Josue Bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Domain.Endpoint\\Domain.Endpoint.csproj": {
+              "projectPath": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Domain.Endpoint\\Domain.Endpoint.csproj"
+            },
+            "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Infrastucture.Endpoint\\Infrastucture.Endpoint.csproj": {
+              "projectPath": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Infrastucture.Endpoint\\Infrastucture.Endpoint.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Authentication.JwtBearer": {
+            "target": "Package",
+            "version": "[7.0.13, )"
+          },
+          "Microsoft.AspNetCore.OpenApi": {
+            "target": "Package",
+            "version": "[7.0.13, )"
+          },
+          "Microsoft.EntityFrameworkCore.Design": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[7.0.13, )"
+          },
+          "Microsoft.IdentityModel.Tokens": {
+            "target": "Package",
+            "version": "[7.0.3, )"
+          },
+          "Swashbuckle.AspNetCore": {
+            "target": "Package",
+            "version": "[6.5.0, )"
+          },
+          "System.IdentityModel.Tokens.Jwt": {
+            "target": "Package",
+            "version": "[7.0.3, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.17, 7.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.17, 7.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.17, 7.0.17]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.17, 7.0.17]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se puede cargar el índice de servicio del origen https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.AspNetCore.OpenApi"
+    }
+  ]
+}

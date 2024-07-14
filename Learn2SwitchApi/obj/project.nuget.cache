@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TDHYO18q5W0CV8O93TXmrCQEq3tb44kZrwwXKadzMj9e76HUGK3NMlV6wFnSKHaFCz40ds1EAlvSq5FDt0Tl9Q==",
+  "success": false,
+  "projectFilePath": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Learn2SwitchApi\\Learn2SwitchApi.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se puede cargar el índice de servicio del origen https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.AspNetCore.OpenApi"
+    }
+  ]
+}

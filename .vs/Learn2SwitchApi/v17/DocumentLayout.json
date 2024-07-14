@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8501F4DC-418F-47A9-8890-9866ACE3153B}|Infrastucture.Endpoint\\Infrastucture.Endpoint.csproj|d:\\deploy\\deploy-master\\learn2switchapi-master\\infrastucture.endpoint\\singletonsqlconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8501F4DC-418F-47A9-8890-9866ACE3153B}|Infrastucture.Endpoint\\Infrastucture.Endpoint.csproj|solutionrelative:infrastucture.endpoint\\singletonsqlconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8501F4DC-418F-47A9-8890-9866ACE3153B}|Infrastucture.Endpoint\\Infrastucture.Endpoint.csproj|d:\\deploy\\deploy-master\\learn2switchapi-master\\infrastucture.endpoint\\isingletonsqlconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8501F4DC-418F-47A9-8890-9866ACE3153B}|Infrastucture.Endpoint\\Infrastucture.Endpoint.csproj|solutionrelative:infrastucture.endpoint\\isingletonsqlconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8E03D4-9D51-4699-A3DB-D13E144FB5EA}|Learn2SwitchApi\\Learn2SwitchApi.csproj|d:\\deploy\\deploy-master\\learn2switchapi-master\\learn2switchapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8E03D4-9D51-4699-A3DB-D13E144FB5EA}|Learn2SwitchApi\\Learn2SwitchApi.csproj|solutionrelative:learn2switchapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8E03D4-9D51-4699-A3DB-D13E144FB5EA}|Learn2SwitchApi\\Learn2SwitchApi.csproj|d:\\deploy\\deploy-master\\learn2switchapi-master\\learn2switchapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8E03D4-9D51-4699-A3DB-D13E144FB5EA}|Learn2SwitchApi\\Learn2SwitchApi.csproj|solutionrelative:learn2switchapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5EE85B-5F80-4F04-935B-4B8330E653B5}|Domain.Endpoint\\Domain.Endpoint.csproj|d:\\deploy\\deploy-master\\learn2switchapi-master\\domain.endpoint\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5EE85B-5F80-4F04-935B-4B8330E653B5}|Domain.Endpoint\\Domain.Endpoint.csproj|solutionrelative:domain.endpoint\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5EE85B-5F80-4F04-935B-4B8330E653B5}|Domain.Endpoint\\Domain.Endpoint.csproj|d:\\deploy\\deploy-master\\learn2switchapi-master\\domain.endpoint\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5EE85B-5F80-4F04-935B-4B8330E653B5}|Domain.Endpoint\\Domain.Endpoint.csproj|solutionrelative:domain.endpoint\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5EE85B-5F80-4F04-935B-4B8330E653B5}|Domain.Endpoint\\Domain.Endpoint.csproj|d:\\deploy\\deploy-master\\learn2switchapi-master\\domain.endpoint\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5EE85B-5F80-4F04-935B-4B8330E653B5}|Domain.Endpoint\\Domain.Endpoint.csproj|solutionrelative:domain.endpoint\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5EE85B-5F80-4F04-935B-4B8330E653B5}|Domain.Endpoint\\Domain.Endpoint.csproj|d:\\deploy\\deploy-master\\learn2switchapi-master\\domain.endpoint\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5EE85B-5F80-4F04-935B-4B8330E653B5}|Domain.Endpoint\\Domain.Endpoint.csproj|solutionrelative:domain.endpoint\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5EE85B-5F80-4F04-935B-4B8330E653B5}|Domain.Endpoint\\Domain.Endpoint.csproj|d:\\deploy\\deploy-master\\learn2switchapi-master\\domain.endpoint\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5EE85B-5F80-4F04-935B-4B8330E653B5}|Domain.Endpoint\\Domain.Endpoint.csproj|solutionrelative:domain.endpoint\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5EE85B-5F80-4F04-935B-4B8330E653B5}|Domain.Endpoint\\Domain.Endpoint.csproj|d:\\deploy\\deploy-master\\learn2switchapi-master\\domain.endpoint\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5EE85B-5F80-4F04-935B-4B8330E653B5}|Domain.Endpoint\\Domain.Endpoint.csproj|solutionrelative:domain.endpoint\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5EE85B-5F80-4F04-935B-4B8330E653B5}|Domain.Endpoint\\Domain.Endpoint.csproj|d:\\deploy\\deploy-master\\learn2switchapi-master\\domain.endpoint\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5EE85B-5F80-4F04-935B-4B8330E653B5}|Domain.Endpoint\\Domain.Endpoint.csproj|solutionrelative:domain.endpoint\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8E03D4-9D51-4699-A3DB-D13E144FB5EA}|Learn2SwitchApi\\Learn2SwitchApi.csproj|d:\\deploy\\deploy-master\\learn2switchapi-master\\learn2switchapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA8E03D4-9D51-4699-A3DB-D13E144FB5EA}|Learn2SwitchApi\\Learn2SwitchApi.csproj|solutionrelative:learn2switchapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BC2EC5-9BF2-4EA6-8150-80C59A8DD231}|Aplication.EndPoint\\Aplication.EndPoint.csproj|d:\\deploy\\deploy-master\\learn2switchapi-master\\aplication.endpoint\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BC2EC5-9BF2-4EA6-8150-80C59A8DD231}|Aplication.EndPoint\\Aplication.EndPoint.csproj|solutionrelative:aplication.endpoint\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8501F4DC-418F-47A9-8890-9866ACE3153B}|Infrastucture.Endpoint\\Infrastucture.Endpoint.csproj|d:\\deploy\\deploy-master\\learn2switchapi-master\\infrastucture.endpoint\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8501F4DC-418F-47A9-8890-9866ACE3153B}|Infrastucture.Endpoint\\Infrastucture.Endpoint.csproj|solutionrelative:infrastucture.endpoint\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Domain.Endpoint\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Domain.Endpoint\\DTOs\\UserDTO.cs",
+              "ToolTip": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Domain.Endpoint\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "Domain.Endpoint\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T01:44:49.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Domain.Endpoint\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Domain.Endpoint\\DTOs\\LoginDTO.cs",
+              "ToolTip": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Domain.Endpoint\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "Domain.Endpoint\\DTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-15T06:03:04.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Learn2SwitchApi\\Program.cs",
+              "RelativeDocumentMoniker": "Learn2SwitchApi\\Program.cs",
+              "ToolTip": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Learn2SwitchApi\\Program.cs",
+              "RelativeToolTip": "Learn2SwitchApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T15:14:04.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Learn2SwitchApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Learn2SwitchApi\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Learn2SwitchApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Learn2SwitchApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-25T21:26:54.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISingletonSqlConnection.cs",
+              "DocumentMoniker": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Infrastucture.Endpoint\\ISingletonSqlConnection.cs",
+              "RelativeDocumentMoniker": "Infrastucture.Endpoint\\ISingletonSqlConnection.cs",
+              "ToolTip": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Infrastucture.Endpoint\\ISingletonSqlConnection.cs",
+              "RelativeToolTip": "Infrastucture.Endpoint\\ISingletonSqlConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T15:15:25.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SingletonSqlConnection.cs",
+              "DocumentMoniker": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Infrastucture.Endpoint\\SingletonSqlConnection.cs",
+              "RelativeDocumentMoniker": "Infrastucture.Endpoint\\SingletonSqlConnection.cs",
+              "ToolTip": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Infrastucture.Endpoint\\SingletonSqlConnection.cs",
+              "RelativeToolTip": "Infrastucture.Endpoint\\SingletonSqlConnection.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAAEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T15:15:28.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Domain.Endpoint\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain.Endpoint\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Domain.Endpoint\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Domain.Endpoint\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-15T06:03:11.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Domain.Endpoint\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain.Endpoint\\Entities\\User.cs",
+              "ToolTip": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Domain.Endpoint\\Entities\\User.cs",
+              "RelativeToolTip": "Domain.Endpoint\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-15T06:03:17.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Domain.Endpoint\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Domain.Endpoint\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Domain.Endpoint\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Domain.Endpoint\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-25T21:26:53.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Domain.Endpoint\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "Domain.Endpoint\\Services\\UserServices.cs",
+              "ToolTip": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Domain.Endpoint\\Services\\UserServices.cs",
+              "RelativeToolTip": "Domain.Endpoint\\Services\\UserServices.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-25T21:26:53.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Domain.Endpoint\\Services\\IUserServices.cs",
+              "RelativeDocumentMoniker": "Domain.Endpoint\\Services\\IUserServices.cs",
+              "ToolTip": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Domain.Endpoint\\Services\\IUserServices.cs",
+              "RelativeToolTip": "Domain.Endpoint\\Services\\IUserServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T01:45:16.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Learn2SwitchApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Learn2SwitchApi\\appsettings.json",
+              "ToolTip": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Learn2SwitchApi\\appsettings.json",
+              "RelativeToolTip": "Learn2SwitchApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-06T15:14:54.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Aplication.EndPoint\\Class1.cs",
+              "RelativeDocumentMoniker": "Aplication.EndPoint\\Class1.cs",
+              "ToolTip": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Aplication.EndPoint\\Class1.cs",
+              "RelativeToolTip": "Aplication.EndPoint\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T15:13:40.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Infrastucture.Endpoint\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastucture.Endpoint\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Infrastucture.Endpoint\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastucture.Endpoint\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAYwKoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-21T21:24:23.217Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

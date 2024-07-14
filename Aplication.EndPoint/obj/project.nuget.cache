@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mSuB5MLLdxyI/ZxVSuAm12wbkQmQD4qzKee4rMkAW31YeJRDWp0vLbbXq7WEMTRNClDRUnCQ26hRK9wPHZKxvw==",
+  "success": true,
+  "projectFilePath": "D:\\deploy\\Deploy-master\\Learn2SwitchApi-master\\Aplication.EndPoint\\Aplication.EndPoint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josue Bermudez\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Josue Bermudez\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Josue Bermudez\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
